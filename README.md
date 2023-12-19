@@ -1,8 +1,8 @@
-<p align="center"> <img src="main.jpg" /> </p>
+<p align="center"> <img src="main.jpg" height="200px" width="200px"/> </p>
 
 <hr/>
 
-<p align="center"> <img src="ss1.png" height="800px" width="400px"/>  <img src="ss2.png"height="800px" width="400px" /> </p>
+<p align="center"> <img src="MainScreen.png" height="600px" width="300px"/>  <img src="Screen1.png"height="600px" width="300px" /> <img src="Screen2.png"height="600px" width="300px" /> </p>
 
 #  QuizGame
 
