@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="MainScreen.png" height="500px" width="250px"/>  <img src="Screen1.png"height="500px" width="250px" /> <img src="Screen2.png"height="500px" width="250px" /> </p>
 
-#  QuizGame
+#  BMI Calculator
 
 ## My Goal
 
